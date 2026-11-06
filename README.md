@@ -100,3 +100,5 @@ screenshots/
 ## Author
 
 **Olamileye (Leye) Duduyemi**, IT support. B.Eng Electronics and Computer Engineering, Lagos State University.
+
+[LinkedIn](https://www.linkedin.com/in/olamileye-duduyemi) | [Upwork](https://www.upwork.com/freelancers/~0125b0f783993713ce)
