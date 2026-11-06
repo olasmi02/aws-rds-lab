@@ -1,0 +1,7 @@
+# Never commit keys, certificates or connection files
+*.pem
+*.key
+*.pfx
+*.cer
+*.crt
+*.rdp
